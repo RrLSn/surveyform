@@ -13,7 +13,7 @@
 
  main {
     width: 60rem;
-    height: 98rem;
+    height: 80%;
     background-color: #2f2c47;
     margin: auto;
     padding: 3rem;
@@ -22,7 +22,14 @@
     opacity: 0.9;
  }
 
- header{
+ label{
+    display: block;
+    display: flex;
+    gap: 1rem;
+    padding-top: 0.6rem;
+}
+
+header{
     margin-top: 4rem;
     margin-bottom: 2rem;
     text-align: center;
