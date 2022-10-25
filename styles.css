@@ -82,6 +82,7 @@ button{
     height: 3rem;
     background: #37af65;
     color: white;
+    cursor: pointer;
     
 }
 
