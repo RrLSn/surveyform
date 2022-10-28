@@ -13,8 +13,10 @@ https://github.com/RrLSn/surveyform.git
 - HTML
 - CSS
 
-#Demo
-[preview]()
+# Demo
+[preview](https://rawcdn.githack.com/RrLSn/surveyform/b43cb29c6624f79102ca79be80f80c39d4ab1311/index.html)
+![screenshot](./media/Screenshot%202022-10-28%20144735.png)
+![screenshot](./media/Screenshot%202022-10-28%20144821.png)
 # Contact
 If you want to contact me, you can reach me at 
 - afolabisoditemitope@yahoo.com or 
